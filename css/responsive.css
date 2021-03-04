@@ -1,0 +1,209 @@
+@media(max-width: 1400px){
+   .banner-content h1 {
+    font-size: 34px;
+    
+}
+.banner-content p {
+    font-size: 18px;
+    
+}
+.banner-img {
+    max-width: 85%;
+}
+.payment-content p {
+    max-width: 95%;
+    
+}
+.manage-content h2 {
+    max-width: 100%;
+}
+
+}
+
+@media(max-width: 1200px){
+ .banner-content h1 {
+    line-height: 50px;
+   
+}
+.banner-content p {
+    max-width: 80%;
+    margin: 25px 0 30px;
+}
+.banner {
+    padding: 75px 0;
+}
+.receive-img {
+    margin-top: 45px;
+}
+.busi-card h4{
+    font-size: 20px;
+}
+.busi-card p {
+    max-width: 90%;
+}
+.justify-content-between li {
+    padding: 20px 12px;
+}
+.payment-p {
+    margin: 20px 0;
+}
+.manage-img {
+    max-width: 95%;
+}
+.footer {
+    padding: 0 60px;
+}
+    
+}
+
+@media(max-width: 991px){
+ .banner-img {
+    max-width: 100%;
+    margin-top: 40px;
+}
+.payment {
+    padding: 100px 0 50px;
+}
+
+.receive-img {
+    max-width: 78%;
+    margin:auto;
+    display: block;
+}
+.receive-content {
+    margin-top: 0px;
+   
+}
+.receive-content h2{
+    max-width: 100%;
+}
+.receive-content p{
+   max-width: 100%;
+}
+.price {
+    padding: 100px 0 20px;
+}
+.manage-img {
+    max-width: 75%;
+    margin: auto;
+    display: block;
+}
+.footer-section {
+    padding: 100px 0 80px;
+}
+.footer {
+    padding: 0 10px;
+}
+.bottom-footer p {
+    max-width: 80%;
+}
+.order {
+    background-position:center ;
+}
+}
+
+
+@media(max-width: 767px){
+  .banner-content{
+    text-align: center;
+  }
+  
+.banner-content h1 {
+    font-size: 25px;
+    line-height: 45px;
+}
+.banner-content p {
+    font-size: 17px;
+    line-height: 30px;
+    max-width: 100%;
+}
+.banner-img {
+    max-width: 100%;
+    margin-top: 40px;
+}
+.payment-content h2 {
+    font-size: 19px;
+    max-width: 100%;
+    line-height: 40px;
+
+}
+.payment-content p {
+    max-width: 100%;
+}
+
+.receive-img {
+    max-width: 95%;
+}
+.receive-content h2 {
+    font-size: 22px;
+    
+}
+
+.busi-card {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.manage-img {
+    max-width: 100%;
+}
+
+.card {
+    margin-top: 40px;
+}
+.benefit {
+    padding: 50px 0;
+}
+.benefit-img {
+    max-width: 95%;
+}
+.benefit-content{
+    margin-top:60px;
+    text-align: center;
+    
+}
+.benefit-content h2{
+    font-size:22px; 
+    font-weight: 600;
+}
+.benefit-box {
+    margin-top:0;
+    text-align: center;
+}
+.benefit-box p {
+    margin: auto;
+}
+.benefit-item{
+    margin:50px 0;
+}
+
+
+.order-content h2 {
+    font-size: 25px;
+   
+}
+.bottom-footer p {
+    max-width: 100%;
+}
+.footer {
+    text-align: center;
+}
+.nav {
+    justify-content: center;
+}
+
+}
+
+
+@media(max-width: 577px){
+
+
+}
+
+@media(max-width: 379px){
+.benefit {
+    padding: 50px 0 0px;
+}
+}
+
+
